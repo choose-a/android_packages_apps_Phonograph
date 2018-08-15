@@ -12,4 +12,7 @@
     <attr name="iconColor" format="color" />
     <attr name="dividerColor" format="color" />
 
+    <attr name="cardBackgroundColor" format="color" />
+    <attr name="md_background_color" format="color" />
+    <attr name="md_dark_theme" format="boolean|string" />
 </resources>

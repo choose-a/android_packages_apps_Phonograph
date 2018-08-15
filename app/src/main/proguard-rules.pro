@@ -37,3 +37,4 @@
 
 -dontwarn javax.**
 -dontwarn org.codehaus.mojo.**
+-ignorewarnings
