@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <attr name="roundSelector" format="reference" />
+    <attr name="cardBackgroundColor" format="color" />
+    <attr name="defaultFooterColor" format="color" />
+    <attr name="dividerColor" format="color" />
+    <attr name="iconColor" format="color" />
+    <attr name="md_background_color" format="color" />
+    <attr name="md_dark_theme" format="color" />
+
     <attr name="rectSelector" format="reference" />
     <attr name="rectSelectorStrong" format="reference" />
-
-    <attr name="defaultFooterColor" format="color" />
-
+    <attr name="roundSelector" format="reference" />
     <attr name="toolbarPopupTheme" format="reference" />
-
-    <attr name="iconColor" format="color" />
-    <attr name="dividerColor" format="color" />
 
 </resources>
